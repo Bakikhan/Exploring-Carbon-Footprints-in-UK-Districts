@@ -41,7 +41,7 @@ For data analysts and scientists, this analysis provides valuable insights into 
 
 In conclusion, the analysis of carbon footprints and hotspots in Scotland provides an important starting point for ongoing efforts to reduce carbon emissions and promote sustainability. By taking action to address hotspots, we can all contribute to a more sustainable future for Scotland and the planet.
 
-Data Availability:
-https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-national-statistics-2005-to-2020
-Digital Vector Boundaries for Local Authority Districts in Scotland
-https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about
+# Data Availability:
+- https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-national-statistics-2005-to-2020
+# Digital Vector Boundaries for Local Authority Districts in Scotland
+- https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about
