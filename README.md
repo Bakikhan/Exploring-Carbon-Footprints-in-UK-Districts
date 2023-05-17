@@ -1,4 +1,4 @@
-Scotland's Carbon Footprints and Hotspots: What We Need to Know
+# Scotland's Carbon Footprints and Hotspots: What We Need to Know
 As concerns over climate change continue to grow, it's becoming increasingly important for governments to take action to reduce their carbon footprints. In Scotland, the government has made significant progress in this area, but there is still more work to be done. One key area where action is needed is in identifying and addressing carbon hotspots.
 
 Carbon hotspots are areas where carbon emissions are particularly high, and they can be caused by a variety of factors, including industrial activity, transportation, and agriculture. By identifying these hotspots, governments can take targeted action to reduce emissions and promote more sustainable practices.
@@ -8,28 +8,9 @@ To help with this effort, I conducted an analysis of carbon footprints and hotsp
 Using the interactive maps and data provided by the Office for National Statistics, I analysed the carbon footprint of each district in the UK.  The analysis revealed some interesting findings:
 
 The carbon footprints of different districts / local authorities in Scotland vary widely, with some areas producing much higher levels of emissions than others
-Align to the left
-Align in the middle
-Resize to full width
-Align to the right
-Add a link to the embedded image
-
-Add alt text
-Delete image
-No alt text provided for this image
-
 
 The main sources of carbon emissions in Scotland include industry, transportation, and agriculture.
 Some areas of Scotland have particularly high carbon footprints, indicating that they may be hotspots for carbon emissions like City of Edinburgh , Falkirk City , Glasgow City and Dundee City. They contribute 50% of the Scotland's carbon footprint
-Align to the left
-Align in the middle
-Resize to full width
-Align to the right
-Add a link to the embedded image
-
-Add alt text
-Delete image
-No alt text provided for this image
 
 
 The "Moderate" carbon footprint districts, like Aberdeen City , Clackmannanshire , North Lanarkshire and Renfrewshire offer opportunities for sustainable practices and emission reduction initiatives. They contribute 20% of the Scotland's carbon footprint
@@ -41,7 +22,7 @@ For data analysts and scientists, this analysis provides valuable insights into 
 
 In conclusion, the analysis of carbon footprints and hotspots in Scotland provides an important starting point for ongoing efforts to reduce carbon emissions and promote sustainability. By taking action to address hotspots, we can all contribute to a more sustainable future for Scotland and the planet.
 
-Data Availability:
-https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-national-statistics-2005-to-2020
-Digital Vector Boundaries for Local Authority Districts in Scotland
-https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about
+# Data Availability:
+- https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-national-statistics-2005-to-2020
+# Digital Vector Boundaries for Local Authority Districts in Scotland
+- https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about
